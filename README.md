@@ -1,8 +1,8 @@
  This Power BI project presents a data-driven analysis of student spending behavior across retail stores in the United States. The dataset captures how much students spend on various categories such as Video Games, Indoor Sports, Toys, Books, Gadgets, etc., segmented by location types like Urban, Suburban, and Rural.
  
- 🧠 Insights & Visualizations
+**** 🧠 Insights & Visualizations****
  
-Tabular Visualization:
+**Tabular Visualization:**
 
 -Displays Total Amount of Purchase (TAP) grouped by Store Setting and Store Location
 
@@ -11,7 +11,7 @@ Tabular Visualization:
      🟡 35,000 ≤ TAP < 60,000 → Yellow
      🔵 TAP ≥ 60,000 → Blue
 
-Matrix Visualization:
+**Matrix Visualization:**
 
 -Shows amount spent on Outdoor Sports
 
@@ -19,13 +19,13 @@ Matrix Visualization:
 
 -Includes gradient color formatting for comparative analysis
 
-Funnel Chart:
+**Funnel Chart:**
 
 -Visualizes Total Amount of Purchase by Store Setting
 
 -Shows data labels as percentage of the first item
 
-Pie Chart:
+**Pie Chart:**
 
 -Displays total purchase amounts by Store Location
 
@@ -35,17 +35,17 @@ Pie Chart:
 
 🌌 Sand Dance Plot: Depicts Indoor Sports and Video Games spend across age groups
 
-Row-Level Security (RLS):
+**Row-Level Security (RLS):**
 
 -Restricted data visibility based on user mapping .Example: "Mani" sees only Rural store data
 
-Publishing & Refresh:
+**Publishing & Refresh:**
 
 -Report published to Power BI Cloud (Service)
 
 -Scheduled refresh set 6 times/day at 4-hour intervals
 
-Power BI Q&A Feature:
+**Power BI Q&A Feature:**
 
 -“Average age of students”
 
